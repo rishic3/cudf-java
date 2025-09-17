@@ -1,6 +1,6 @@
 # <div align="left"><img src="img/rapids_logo.png" width="90px"/>&nbsp;cuDF - GPU DataFrames</div>
 
-## 📢 cuDF can now be used as a no-code-change accelerator for pandas! To learn more, see [here](https://rapids.ai/cudf-pandas/)!
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rishic3/cudf-java)
 
 cuDF (pronounced "KOO-dee-eff") is a GPU DataFrame library
 for loading, joining, aggregating, filtering, and otherwise
